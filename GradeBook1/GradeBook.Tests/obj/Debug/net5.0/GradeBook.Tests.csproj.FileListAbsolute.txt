@@ -1,0 +1,5 @@
+C:\Users\Lucas\source\repos\GradeBook1\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\GradeBook1\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\source\repos\GradeBook1\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.AssemblyInfoInputs.cache
+C:\Users\Lucas\source\repos\GradeBook1\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.AssemblyInfo.cs
+C:\Users\Lucas\source\repos\GradeBook1\GradeBook.Tests\obj\Debug\net5.0\GradeBook.Tests.csproj.CoreCompileInputs.cache
