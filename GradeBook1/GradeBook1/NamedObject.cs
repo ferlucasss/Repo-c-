@@ -15,5 +15,10 @@ namespace GradeBook1
             get;
             set;
         }
+        public string Libreria
+        {
+            get;
+            set;
+        }
     }
 }
